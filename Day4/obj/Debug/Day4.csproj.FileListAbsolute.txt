@@ -1,0 +1,7 @@
+C:\Users\lokim\Documents\PriorEducation\Day4\bin\Debug\Day4.exe.config
+C:\Users\lokim\Documents\PriorEducation\Day4\bin\Debug\Day4.exe
+C:\Users\lokim\Documents\PriorEducation\Day4\bin\Debug\Day4.pdb
+C:\Users\lokim\Documents\PriorEducation\Day4\obj\Debug\Day4.csproj.AssemblyReference.cache
+C:\Users\lokim\Documents\PriorEducation\Day4\obj\Debug\Day4.csproj.CoreCompileInputs.cache
+C:\Users\lokim\Documents\PriorEducation\Day4\obj\Debug\Day4.exe
+C:\Users\lokim\Documents\PriorEducation\Day4\obj\Debug\Day4.pdb
