@@ -5,7 +5,7 @@ using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
-// 20고개 (야구게임)
+// 스무고개 (야구게임)
 // 1 ~ 9 숫자를 랜덤하게 하나씩 뽑아서 총 3개를 뽑자 (3, 6, 9)
 // 사람1. 123 --> 문제. 1볼 2아웃
 // 사람2. 145 --> 문제. 3아웃
