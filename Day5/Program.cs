@@ -9,15 +9,15 @@ namespace Day5
 {
     internal class Program
     {
-        class MyList
+        class MyList<T>
         {
             // 추가 되야하는 index
             int currIdx = 0;
             // 데이터를 가지고 있는 배열
-            int[] array = new int[0];
+            T [] array = new T[0];
 
             // 추가 함수
-            public void Add(int item)
+            public void Add(T item)
             {
                 Expand();
 
@@ -29,7 +29,7 @@ namespace Day5
             }
 
             // 추가 함수
-            public void Insert(int index, int item)
+            public void Insert(int index, T item)
             {
                 // 범위를 벗어난 index 면 오류를 던지자.
                 if(index > currIdx)
@@ -75,10 +75,10 @@ namespace Day5
                 //    array[i - 1] = array[i];
                 //}
 
-                array[currIdx] = 0;
+                array[currIdx] = default(T);
             }
 
-            public void Remove(int item)
+            public void Remove(T item)
             {
                 // item 과 같은 값을 가지는 array 의 index 를 찾자
                 int index = Array.IndexOf(array, item);
@@ -96,6 +96,47 @@ namespace Day5
                 //}
             }
 
+            public void Clear()
+            {
+                for(int i = 0; i < currIdx; i++)
+                {
+                    array[i] = default(T);
+                }
+
+                currIdx = 0;
+            }
+
+            // 데이터 갯수 
+            public int Count()
+            {
+                return currIdx;
+            }
+
+            // index 의 데이터 가져오자
+            public T this[int index]
+            {
+                get
+                {
+                    // 범위를 벗어난 index 면 오류를 던지자.
+                    if (index > currIdx)
+                    {
+                        throw new ArgumentOutOfRangeException();
+                    }
+
+                    return array[index];
+                }
+                set
+                {
+                    // 범위를 벗어난 index 면 오류를 던지자.
+                    if (index > currIdx)
+                    {
+                        throw new ArgumentOutOfRangeException();
+                    }
+
+                    array[index] = value;
+                }
+            }
+
             // 공간 확보 함수
             void Expand()
             {
@@ -109,7 +150,7 @@ namespace Day5
                     //else size = array.Length * 2;
 
                     // 2. 공간 만큼 배열을 하나 만들자.
-                    int[] newArray = new int[size];
+                    T[] newArray = new T[size];
                     // 3. 새로만든 배열에 기존 배열값을 복사하자.
                     Array.Copy(array, newArray, array.Length);
 
@@ -123,23 +164,42 @@ namespace Day5
                 }
             }
         }
+        
 
         static void Main(string[] args)
         {
-            MyList myList = new MyList();
+            MyList<int> myList = new MyList<int>();
             myList.Add(5000);
             myList.Add(2000);
             myList.Add(5000);
             myList.Add(4000);
             myList.Add(5000);
 
+            for(int i = 0; i < myList.Count(); i++)
+            {
+                Console.WriteLine(myList[i]);
+            }
+
+            MyList<bool> myListBool = new MyList<bool>();
+            myListBool.Add(true);
+            myListBool.Add(true);
+
+            MyList<string> myListString = new MyList<string>();
+            myListString.Add("월");
+            myListString.Add("화");
+            myListString.Add("수");
+
+
+
             //myList.RemoveAt(4);
-            myList.Remove(5000);
+            //myList.Remove(5000);
 
-
+            //myList.Clear();
+            Console.ReadKey();
 
 
             List<int> intList = new List<int>();
+
 
             // 추가 방법
             intList.Add(10);
