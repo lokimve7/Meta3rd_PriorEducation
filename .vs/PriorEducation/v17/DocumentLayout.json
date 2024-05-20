@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\lokim\\Documents\\PriorEducation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{188A92F7-A3F6-473F-A6BC-AB8911CABC78}|Day6\\Day6.csproj|c:\\users\\lokim\\documents\\prioreducation\\day6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{188A92F7-A3F6-473F-A6BC-AB8911CABC78}|Day6\\Day6.csproj|solutionrelative:day6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C12BF91A-180B-4933-B81A-890BE7E9E923}|Day7\\Day7.csproj|c:\\users\\lokim\\documents\\prioreducation\\day7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C12BF91A-180B-4933-B81A-890BE7E9E923}|Day7\\Day7.csproj|solutionrelative:day7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lokim\\Documents\\PriorEducation\\Day6\\Program.cs",
-              "RelativeDocumentMoniker": "Day6\\Program.cs",
-              "ToolTip": "C:\\Users\\lokim\\Documents\\PriorEducation\\Day6\\Program.cs",
-              "RelativeToolTip": "Day6\\Program.cs",
-              "ViewState": "AQIAAH8AAAAAAAAAAAASwIwAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\lokim\\Documents\\PriorEducation\\Day7\\Program.cs",
+              "RelativeDocumentMoniker": "Day7\\Program.cs",
+              "ToolTip": "C:\\Users\\lokim\\Documents\\PriorEducation\\Day7\\Program.cs",
+              "RelativeToolTip": "Day7\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAowCIAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T11:34:41.775Z",
+              "WhenOpened": "2024-05-20T12:01:32.431Z",
               "EditorCaption": ""
             }
           ]

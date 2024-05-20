@@ -1,0 +1,7 @@
+C:\Users\lokim\Documents\PriorEducation\Day7\bin\Debug\Day7.exe.config
+C:\Users\lokim\Documents\PriorEducation\Day7\bin\Debug\Day7.exe
+C:\Users\lokim\Documents\PriorEducation\Day7\bin\Debug\Day7.pdb
+C:\Users\lokim\Documents\PriorEducation\Day7\obj\Debug\Day7.csproj.AssemblyReference.cache
+C:\Users\lokim\Documents\PriorEducation\Day7\obj\Debug\Day7.csproj.CoreCompileInputs.cache
+C:\Users\lokim\Documents\PriorEducation\Day7\obj\Debug\Day7.exe
+C:\Users\lokim\Documents\PriorEducation\Day7\obj\Debug\Day7.pdb

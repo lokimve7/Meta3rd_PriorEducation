@@ -11,6 +11,9 @@ namespace Day6
         // 내 다음 Node를 담을 변수
         public Node next;
 
+        // 내 앞의 Node를 담을 변수
+        public Node prev;
+
         // 데이터 값
         public string data = "";
     }
@@ -40,6 +43,8 @@ namespace Day6
             else
             {
                 last.next = node;
+                node.prev = last;
+                
             }
 
             // 새로 추가된 node 를 last 롤 설정
@@ -59,6 +64,8 @@ namespace Day6
             if(index == 0)
             {
                 node.next = first;
+                first.prev = node;
+                
                 first = node;
             }
             else
@@ -73,6 +80,9 @@ namespace Day6
                     {
                         // 새로 만든 node 의 다음을 index 자리에 있던 node 로 설정
                         node.next = temp.next;
+                        node.prev = temp;
+
+                        temp.next.prev = node;
                         // 바꾸고자 하는 인덱스 앞의 Node의 다음을 새로운 Node로 설정
                         temp.next = node;
                         // 반복문을 종료한다.
@@ -100,6 +110,7 @@ namespace Day6
             if(index == 0)
             {
                 first = first.next;
+                first.prev = null;
             }
 
             Node temp = first;
@@ -108,6 +119,8 @@ namespace Day6
             {
                 if(index - 1 == i)
                 {
+                    temp.next.next.prev = temp;
+
                     temp.next = temp.next.next;
                     break;
                 }
