@@ -1,0 +1,7 @@
+C:\Users\lokim\Documents\PriorEducation\StringStudy\bin\Debug\StringStudy.exe.config
+C:\Users\lokim\Documents\PriorEducation\StringStudy\bin\Debug\StringStudy.exe
+C:\Users\lokim\Documents\PriorEducation\StringStudy\bin\Debug\StringStudy.pdb
+C:\Users\lokim\Documents\PriorEducation\StringStudy\obj\Debug\StringStudy.csproj.AssemblyReference.cache
+C:\Users\lokim\Documents\PriorEducation\StringStudy\obj\Debug\StringStudy.csproj.CoreCompileInputs.cache
+C:\Users\lokim\Documents\PriorEducation\StringStudy\obj\Debug\StringStudy.exe
+C:\Users\lokim\Documents\PriorEducation\StringStudy\obj\Debug\StringStudy.pdb

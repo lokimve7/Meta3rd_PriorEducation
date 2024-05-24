@@ -39,11 +39,6 @@ namespace Day7
         }
     }
 
-    class MyQueue<T>
-    {
-
-    }
-
     internal class Program
     {
 
