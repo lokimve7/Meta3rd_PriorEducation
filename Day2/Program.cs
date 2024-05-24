@@ -88,9 +88,7 @@ namespace Day2
             num = num + 1;
             num += 1;
             num--;
-
-
-
+                       
             int i;
             for (i = 2; i < 5; i += 2)
             {

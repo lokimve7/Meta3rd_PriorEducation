@@ -39,6 +39,7 @@ namespace Day8
                 tail = size;
             }
 
+
             array[tail] = item;
             tail = (tail + 1) % array.Length;
             size++;

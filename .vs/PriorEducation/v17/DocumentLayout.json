@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\lokim\\Documents\\PriorEducation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C428FAE-33E9-44D1-9BFC-A71068E29C0B}|StringStudy\\StringStudy.csproj|c:\\users\\lokim\\documents\\prioreducation\\stringstudy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C428FAE-33E9-44D1-9BFC-A71068E29C0B}|StringStudy\\StringStudy.csproj|solutionrelative:stringstudy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9FCCBAFD-7008-4722-BB9E-5A6D67406E8F}|ClassStudy\\ClassStudy.csproj|c:\\users\\lokim\\documents\\prioreducation\\classstudy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FCCBAFD-7008-4722-BB9E-5A6D67406E8F}|ClassStudy\\ClassStudy.csproj|solutionrelative:classstudy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1DAF9FE2-83B2-4C12-AEEF-1443FDD93B78}|Day8\\Day8.csproj|c:\\users\\lokim\\documents\\prioreducation\\day8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DAF9FE2-83B2-4C12-AEEF-1443FDD93B78}|Day8\\Day8.csproj|solutionrelative:day8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C428FAE-33E9-44D1-9BFC-A71068E29C0B}|StringStudy\\StringStudy.csproj|c:\\users\\lokim\\documents\\prioreducation\\stringstudy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C428FAE-33E9-44D1-9BFC-A71068E29C0B}|StringStudy\\StringStudy.csproj|solutionrelative:stringstudy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,26 +24,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lokim\\Documents\\PriorEducation\\StringStudy\\Program.cs",
-              "RelativeDocumentMoniker": "StringStudy\\Program.cs",
-              "ToolTip": "C:\\Users\\lokim\\Documents\\PriorEducation\\StringStudy\\Program.cs",
-              "RelativeToolTip": "StringStudy\\Program.cs",
-              "ViewState": "AQIAADoAAAAAAAAAAAAAwD8AAAAyAAAA",
+              "DocumentMoniker": "C:\\Users\\lokim\\Documents\\PriorEducation\\ClassStudy\\Program.cs",
+              "RelativeDocumentMoniker": "ClassStudy\\Program.cs",
+              "ToolTip": "C:\\Users\\lokim\\Documents\\PriorEducation\\ClassStudy\\Program.cs",
+              "RelativeToolTip": "ClassStudy\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T12:01:33.63Z",
+              "WhenOpened": "2024-05-24T12:35:20.023Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lokim\\Documents\\PriorEducation\\Day8\\Program.cs",
-              "RelativeDocumentMoniker": "Day8\\Program.cs",
-              "ToolTip": "C:\\Users\\lokim\\Documents\\PriorEducation\\Day8\\Program.cs",
-              "RelativeToolTip": "Day8\\Program.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAADgvwkAAAAFAAAA",
+              "DocumentMoniker": "C:\\Users\\lokim\\Documents\\PriorEducation\\StringStudy\\Program.cs",
+              "RelativeDocumentMoniker": "StringStudy\\Program.cs",
+              "ToolTip": "C:\\Users\\lokim\\Documents\\PriorEducation\\StringStudy\\Program.cs",
+              "RelativeToolTip": "StringStudy\\Program.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAIwIkAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T11:02:44.433Z",
+              "WhenOpened": "2024-05-24T12:31:58.084Z",
               "EditorCaption": ""
             }
           ]
