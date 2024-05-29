@@ -1,0 +1,7 @@
+C:\Users\lokim\Documents\PriorEducation\ClassStudy\bin\Debug\ClassStudy.exe.config
+C:\Users\lokim\Documents\PriorEducation\ClassStudy\bin\Debug\ClassStudy.exe
+C:\Users\lokim\Documents\PriorEducation\ClassStudy\bin\Debug\ClassStudy.pdb
+C:\Users\lokim\Documents\PriorEducation\ClassStudy\obj\Debug\ClassStudy.csproj.AssemblyReference.cache
+C:\Users\lokim\Documents\PriorEducation\ClassStudy\obj\Debug\ClassStudy.csproj.CoreCompileInputs.cache
+C:\Users\lokim\Documents\PriorEducation\ClassStudy\obj\Debug\ClassStudy.exe
+C:\Users\lokim\Documents\PriorEducation\ClassStudy\obj\Debug\ClassStudy.pdb

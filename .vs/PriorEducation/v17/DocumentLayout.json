@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{9FCCBAFD-7008-4722-BB9E-5A6D67406E8F}|ClassStudy\\ClassStudy.csproj|solutionrelative:classstudy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C428FAE-33E9-44D1-9BFC-A71068E29C0B}|StringStudy\\StringStudy.csproj|c:\\users\\lokim\\documents\\prioreducation\\stringstudy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C428FAE-33E9-44D1-9BFC-A71068E29C0B}|StringStudy\\StringStudy.csproj|C:\\Users\\lokim\\Documents\\PriorEducation\\stringstudy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C428FAE-33E9-44D1-9BFC-A71068E29C0B}|StringStudy\\StringStudy.csproj|solutionrelative:stringstudy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "ClassStudy\\Program.cs",
               "ToolTip": "C:\\Users\\lokim\\Documents\\PriorEducation\\ClassStudy\\Program.cs",
               "RelativeToolTip": "ClassStudy\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAcwIcAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-24T12:35:20.023Z",
               "EditorCaption": ""
@@ -43,8 +43,7 @@
               "RelativeToolTip": "StringStudy\\Program.cs",
               "ViewState": "AQIAAHkAAAAAAAAAAAAIwIkAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T12:31:58.084Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-24T12:31:58.084Z"
             }
           ]
         }
