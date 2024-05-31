@@ -5,6 +5,7 @@ using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static System.Collections.Specialized.BitVector32;
 
 namespace ClassStudy
 {   
@@ -77,9 +78,9 @@ namespace ClassStudy
         }
     }
 
-    class Cat : Animal
-    {       
 
+    class Cat : Animal
+    {
         public void Meow()
         {
             Console.WriteLine($"{name} 이 웁니다.");
@@ -129,7 +130,6 @@ namespace ClassStudy
 
             AnimalInfo animInfo;
             animInfo.age = 111;
-
 
             //dog1.Move();
             //cat1.Move();

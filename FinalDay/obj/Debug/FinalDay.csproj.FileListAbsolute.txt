@@ -1,0 +1,7 @@
+C:\Users\lokim\Documents\PriorEducation\FinalDay\bin\Debug\FinalDay.exe.config
+C:\Users\lokim\Documents\PriorEducation\FinalDay\bin\Debug\FinalDay.exe
+C:\Users\lokim\Documents\PriorEducation\FinalDay\bin\Debug\FinalDay.pdb
+C:\Users\lokim\Documents\PriorEducation\FinalDay\obj\Debug\FinalDay.csproj.AssemblyReference.cache
+C:\Users\lokim\Documents\PriorEducation\FinalDay\obj\Debug\FinalDay.csproj.CoreCompileInputs.cache
+C:\Users\lokim\Documents\PriorEducation\FinalDay\obj\Debug\FinalDay.exe
+C:\Users\lokim\Documents\PriorEducation\FinalDay\obj\Debug\FinalDay.pdb
